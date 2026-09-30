@@ -10,10 +10,10 @@ export function About() {
             className="absolute -inset-3 rounded-lg border border-primary/60 md:-inset-4"
             aria-hidden="true"
           />
-          <div className="relative aspect-[4/5] overflow-hidden rounded-md shadow-xl shadow-accent/20">
+          <div className="relative aspect-[3/2] overflow-hidden rounded-md shadow-xl shadow-accent/20">
             <Image
-              src="/images/about.png"
-              alt="Elegantly dressed guests raising champagne on a terrace overlooking the racetrack"
+              src="/images/about-guests.png"
+              alt="A diverse group of guests in gold and ivory attire, derby hats, and fine jewelry sharing champagne on a terrace overlooking the racetrack"
               fill
               sizes="(min-width: 768px) 50vw, 100vw"
               className="object-cover"
