@@ -1,6 +1,6 @@
 export const EVENT = {
   name: 'Golden Reins Classic',
-  tagline: 'Where Elegance Meets the Finish Line',
+  tagline: 'Where Elegance Meets the Finish Line in Palm Beach',
   date: 'Saturday, December 12, 2026',
   time: '4:00 PM until late',
   location: 'West Palm Beach, Florida',
